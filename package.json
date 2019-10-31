@@ -20,6 +20,6 @@
   "homepage": "https://github.com/alincode/sequelize-sandbox#readme",
   "dependencies": {
     "mysql": "^2.11.1",
-    "sequelize": "^3.23.3"
+    "sequelize": "^5.21.2"
   }
 }
